@@ -1,6 +1,3 @@
-//import edu.javacourse.ui.component.OvalComponent;
-//import edu.javacourse.ui.component.RectangleComponent;
-//import edu.javacourse.ui.component.TriangleComponent;
 import java.awt.GridLayout;
 import javax.swing.JFrame;
 
