@@ -22,7 +22,5 @@ public class Dispatcher {
             p.speak();
             p.walk();
         }
-
-
     }
 }
